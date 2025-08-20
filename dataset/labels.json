@@ -1,0 +1,863 @@
+{
+  "test_1.png": [
+    {
+      "name": "1B",
+      "percentage": "70%"
+    },
+    {
+      "name": "2B",
+      "percentage": "55%"
+    },
+    {
+      "name": "3B",
+      "percentage": "53%"
+    },
+    {
+      "name": "4B",
+      "percentage": "49%"
+    },
+    {
+      "name": "5B",
+      "percentage": "54%"
+    },
+    {
+      "name": "6B",
+      "percentage": "66%"
+    },
+    {
+      "name": "7B",
+      "percentage": "70%"
+    },
+    {
+      "name": "8B",
+      "percentage": "68%"
+    },
+    {
+      "name": "9B",
+      "percentage": "5%"
+    },
+    {
+      "name": "10B",
+      "percentage": "80%"
+    },
+    {
+      "name": "11B",
+      "percentage": "69%"
+    }
+  ],
+  "test_3.png": [
+    {
+      "name": "1B",
+      "percentage": "73%"
+    },
+    {
+      "name": "2B",
+      "percentage": "54%"
+    },
+    {
+      "name": "3B",
+      "percentage": "50%"
+    },
+    {
+      "name": "4B",
+      "percentage": "70%"
+    },
+    {
+      "name": "5B",
+      "percentage": "77%"
+    },
+    {
+      "name": "6B",
+      "percentage": "40%"
+    },
+    {
+      "name": "7B",
+      "percentage": "54%"
+    },
+    {
+      "name": "8B",
+      "percentage": "40%"
+    },
+    {
+      "name": "9B",
+      "percentage": "42%"
+    },
+    {
+      "name": "10B",
+      "percentage": "54%"
+    },
+    {
+      "name": "11B",
+      "percentage": "50%"
+    }
+  ],
+  "test_5.png": [
+    {
+      "name": "1B",
+      "percentage": "68%"
+    },
+    {
+      "name": "2B",
+      "percentage": "10%"
+    },
+    {
+      "name": "3B",
+      "percentage": "48%"
+    },
+    {
+      "name": "4B",
+      "percentage": "44%"
+    },
+    {
+      "name": "5B",
+      "percentage": "55%"
+    },
+    {
+      "name": "6B",
+      "percentage": "40%"
+    },
+    {
+      "name": "7B",
+      "percentage": "50%"
+    },
+    {
+      "name": "8B",
+      "percentage": "30%"
+    },
+    {
+      "name": "9B",
+      "percentage": "42%"
+    },
+    {
+      "name": "10B",
+      "percentage": "68%"
+    },
+    {
+      "name": "11B",
+      "percentage": "50%"
+    }
+  ],
+  "test_7.png": [
+    {
+      "name": "1B",
+      "percentage": "70%"
+    },
+    {
+      "name": "2B",
+      "percentage": "74%"
+    },
+    {
+      "name": "3B",
+      "percentage": "74%"
+    },
+    {
+      "name": "4B",
+      "percentage": "76%"
+    },
+    {
+      "name": "5B",
+      "percentage": "78%"
+    },
+    {
+      "name": "6B",
+      "percentage": "79%"
+    },
+    {
+      "name": "7B",
+      "percentage": "72%"
+    },
+    {
+      "name": "8B",
+      "percentage": "78%"
+    },
+    {
+      "name": "9B",
+      "percentage": "73%"
+    },
+    {
+      "name": "10B",
+      "percentage": "68%"
+    },
+    {
+      "name": "11B",
+      "percentage": "74%"
+    }
+  ],
+  "test_9.png": [
+    {
+      "name": "1B",
+      "percentage": "68%"
+    },
+    {
+      "name": "2B",
+      "percentage": "46%"
+    },
+    {
+      "name": "3B",
+      "percentage": "54%"
+    },
+    {
+      "name": "4B",
+      "percentage": "57%"
+    },
+    {
+      "name": "5B",
+      "percentage": "78%"
+    },
+    {
+      "name": "6B",
+      "percentage": "73%"
+    },
+    {
+      "name": "7B",
+      "percentage": "70%"
+    },
+    {
+      "name": "8B",
+      "percentage": "73%"
+    },
+    {
+      "name": "9B",
+      "percentage": "72%"
+    },
+    {
+      "name": "10B",
+      "percentage": "50%"
+    }
+  ],
+  "test_11.png": [
+    {
+      "name": "1B",
+      "percentage": "72%"
+    },
+    {
+      "name": "2B",
+      "percentage": "68%"
+    },
+    {
+      "name": "3B",
+      "percentage": "75%"
+    },
+    {
+      "name": "4B",
+      "percentage": "70%"
+    },
+    {
+      "name": "5B",
+      "percentage": "58%"
+    },
+    {
+      "name": "6B",
+      "percentage": "73%"
+    },
+    {
+      "name": "7B",
+      "percentage": "72%"
+    },
+    {
+      "name": "8B",
+      "percentage": "72%"
+    },
+    {
+      "name": "9B",
+      "percentage": "78%"
+    },
+    {
+      "name": "10B",
+      "percentage": "81%"
+    }
+  ],
+  "test_13.png": [
+    {
+      "name": "1B",
+      "percentage": "72%"
+    },
+    {
+      "name": "2B",
+      "percentage": "72%"
+    },
+    {
+      "name": "3B",
+      "percentage": "30%"
+    },
+    {
+      "name": "4B",
+      "percentage": "40%"
+    },
+    {
+      "name": "5B",
+      "percentage": "50%"
+    },
+    {
+      "name": "6B",
+      "percentage": "50%"
+    },
+    {
+      "name": "7B",
+      "percentage": "50%"
+    },
+    {
+      "name": "8B",
+      "percentage": "68%"
+    },
+    {
+      "name": "9B",
+      "percentage": "45%"
+    },
+    {
+      "name": "10B",
+      "percentage": "45%"
+    }
+  ],
+  "test_15.png": [
+    {
+      "name": "1B",
+      "percentage": "43%"
+    },
+    {
+      "name": "2B",
+      "percentage": "38%"
+    },
+    {
+      "name": "3B",
+      "percentage": "65%"
+    },
+    {
+      "name": "4B",
+      "percentage": "50%"
+    },
+    {
+      "name": "5B",
+      "percentage": "54%"
+    },
+    {
+      "name": "6B",
+      "percentage": "45%"
+    },
+    {
+      "name": "7B",
+      "percentage": "73%"
+    },
+    {
+      "name": "8B",
+      "percentage": "45%"
+    },
+    {
+      "name": "9B",
+      "percentage": "10%"
+    },
+    {
+      "name": "10B",
+      "percentage": "50%"
+    }
+  ],
+  "test_17.png": [
+    {
+      "name": "1B",
+      "percentage": "73%"
+    },
+    {
+      "name": "2B",
+      "percentage": "50%"
+    },
+    {
+      "name": "3B",
+      "percentage": "50%"
+    },
+    {
+      "name": "4B",
+      "percentage": "68%"
+    },
+    {
+      "name": "5B",
+      "percentage": "73%"
+    },
+    {
+      "name": "6B",
+      "percentage": "68%"
+    },
+    {
+      "name": "7B",
+      "percentage": "40%"
+    },
+    {
+      "name": "8B",
+      "percentage": "73%"
+    },
+    {
+      "name": "9B",
+      "percentage": "68%"
+    },
+    {
+      "name": "10B",
+      "percentage": "41%"
+    }
+  ],
+  "test_19.png": [
+    {
+      "name": "1B",
+      "percentage": "68%"
+    },
+    {
+      "name": "2B",
+      "percentage": "40%"
+    },
+    {
+      "name": "3B",
+      "percentage": "74%"
+    },
+    {
+      "name": "4B",
+      "percentage": "65%"
+    },
+    {
+      "name": "5B",
+      "percentage": "65%"
+    },
+    {
+      "name": "6B",
+      "percentage": "73%"
+    },
+    {
+      "name": "7B",
+      "percentage": "78%"
+    },
+    {
+      "name": "8B",
+      "percentage": "67%"
+    },
+    {
+      "name": "9B",
+      "percentage": "50%"
+    },
+    {
+      "name": "10B",
+      "percentage": "68%"
+    }
+  ],
+  "test_21.png": [
+    {
+      "name": "1B",
+      "percentage": "72%"
+    },
+    {
+      "name": "2B",
+      "percentage": "50%"
+    },
+    {
+      "name": "3B",
+      "percentage": "85%"
+    },
+    {
+      "name": "4B",
+      "percentage": "85%"
+    },
+    {
+      "name": "5B",
+      "percentage": "72%"
+    },
+    {
+      "name": "6B",
+      "percentage": "73%"
+    },
+    {
+      "name": "7B",
+      "percentage": "75%"
+    },
+    {
+      "name": "8B",
+      "percentage": "75%"
+    },
+    {
+      "name": "9B",
+      "percentage": "78%"
+    },
+    {
+      "name": "10B",
+      "percentage": "68%"
+    }
+  ],
+  "test_23.png": [
+    {
+      "name": "1B",
+      "percentage": "50%"
+    },
+    {
+      "name": "2B",
+      "percentage": "73%"
+    },
+    {
+      "name": "3B",
+      "percentage": "83%"
+    },
+    {
+      "name": "4B",
+      "percentage": "73%"
+    },
+    {
+      "name": "5B",
+      "percentage": "58%"
+    },
+    {
+      "name": "6B",
+      "percentage": "78%"
+    },
+    {
+      "name": "7B",
+      "percentage": "73%"
+    },
+    {
+      "name": "8B",
+      "percentage": "73%"
+    },
+    {
+      "name": "9B",
+      "percentage": "66%"
+    },
+    {
+      "name": "10B",
+      "percentage": "76%"
+    }
+  ],
+  "test_25.png": [
+    {
+      "name": "1B",
+      "percentage": "72%"
+    },
+    {
+      "name": "2B",
+      "percentage": "83%"
+    },
+    {
+      "name": "3B",
+      "percentage": "72%"
+    },
+    {
+      "name": "4B",
+      "percentage": "75%"
+    },
+    {
+      "name": "5B",
+      "percentage": "78%"
+    },
+    {
+      "name": "6B",
+      "percentage": "76%"
+    },
+    {
+      "name": "7B",
+      "percentage": "73%"
+    },
+    {
+      "name": "8B",
+      "percentage": "72%"
+    },
+    {
+      "name": "9B",
+      "percentage": "50%"
+    },
+    {
+      "name": "10B",
+      "percentage": "53%"
+    }
+  ],
+  "test_27.png": [
+    {
+      "name": "1B",
+      "percentage": "75%"
+    },
+    {
+      "name": "2B",
+      "percentage": "76%"
+    },
+    {
+      "name": "3B",
+      "percentage": "74%"
+    },
+    {
+      "name": "4B",
+      "percentage": "74%"
+    },
+    {
+      "name": "5B",
+      "percentage": "75%"
+    },
+    {
+      "name": "6B",
+      "percentage": "73%"
+    },
+    {
+      "name": "7B",
+      "percentage": "75%"
+    },
+    {
+      "name": "8B",
+      "percentage": "76%"
+    },
+    {
+      "name": "9B",
+      "percentage": "76%"
+    },
+    {
+      "name": "10B",
+      "percentage": "72%"
+    }
+  ],
+  "test_28.png": [
+    {
+      "name": "1B",
+      "percentage": "65%"
+    },
+    {
+      "name": "2B",
+      "percentage": "40%"
+    },
+    {
+      "name": "3B",
+      "percentage": "40%"
+    },
+    {
+      "name": "4B",
+      "percentage": "38%"
+    },
+    {
+      "name": "5B",
+      "percentage": "74%"
+    }
+  ],
+  "test_30.png": [
+    {
+      "name": "1B",
+      "percentage": "78%"
+    },
+    {
+      "name": "2B",
+      "percentage": "45%"
+    },
+    {
+      "name": "3B",
+      "percentage": "58%"
+    },
+    {
+      "name": "4B",
+      "percentage": "59%"
+    },
+    {
+      "name": "5B",
+      "percentage": "40%"
+    },
+    {
+      "name": "6B",
+      "percentage": "48%"
+    }
+  ],
+  "test_32.png": [
+    {
+      "name": "1B",
+      "percentage": "50%"
+    },
+    {
+      "name": "2B",
+      "percentage": "68%"
+    },
+    {
+      "name": "3B",
+      "percentage": "48%"
+    },
+    {
+      "name": "4B",
+      "percentage": "65%"
+    },
+    {
+      "name": "5B",
+      "percentage": "66%"
+    },
+    {
+      "name": "6B",
+      "percentage": "70%"
+    }
+  ],
+  "test_34.png": [
+    {
+      "name": "1B",
+      "percentage": "68%"
+    },
+    {
+      "name": "2B",
+      "percentage": "50%"
+    },
+    {
+      "name": "3B",
+      "percentage": "50%"
+    },
+    {
+      "name": "4B",
+      "percentage": "64%"
+    },
+    {
+      "name": "5B",
+      "percentage": "50%"
+    },
+    {
+      "name": "6B",
+      "percentage": "66%"
+    },
+
+    {
+      "name": "7B",
+      "percentage": "70%"
+    }
+  ],
+  "test_36.png": [
+    {
+      "name": "1B",
+      "percentage": "66%"
+    },
+    {
+      "name": "2B",
+      "percentage": "46%"
+    },
+    {
+      "name": "3B",
+      "percentage": "55%"
+    },
+    {
+      "name": "4B",
+      "percentage": "73%"
+    },
+    {
+      "name": "5B",
+      "percentage": "50%"
+    },
+    {
+      "name": "6B",
+      "percentage": "53%"
+    }
+  ],
+  "test_38.png": [
+    {
+      "name": "1B",
+      "percentage": "50%"
+    },
+    {
+      "name": "2B",
+      "percentage": "73%"
+    },
+    {
+      "name": "3B",
+      "percentage": "66%"
+    },
+    {
+      "name": "4B",
+      "percentage": "80%"
+    },
+    {
+      "name": "5B",
+      "percentage": "75%"
+    },
+    {
+      "name": "6B",
+      "percentage": "73%"
+    },
+    {
+      "name": "7B",
+      "percentage": "80%"
+    },
+    {
+      "name": "8B",
+      "percentage": "73%"
+    },
+    {
+      "name": "9B",
+      "percentage": "53%"
+    },
+    {
+      "name": "10B",
+      "percentage": "80%"
+    }
+  ],
+  "test_40.png": [
+    {
+      "name": "1B",
+      "percentage": "73%"
+    },
+    {
+      "name": "2B",
+      "percentage": "54%"
+    },
+    {
+      "name": "3B",
+      "percentage": "55%"
+    },
+    {
+      "name": "4B",
+      "percentage": "73%"
+    },
+    {
+      "name": "5B",
+      "percentage": "78%"
+    },
+    {
+      "name": "6B",
+      "percentage": "73%"
+    },
+    {
+      "name": "7B",
+      "percentage": "67%"
+    },
+    {
+      "name": "8B",
+      "percentage": "80%"
+    },
+    {
+      "name": "9B",
+      "percentage": "75%"
+    },
+    {
+      "name": "10B",
+      "percentage": "73%"
+    }
+  ],
+  "test_42.png": [
+    {
+      "name": "1B",
+      "percentage": "73%"
+    },
+    {
+      "name": "2B",
+      "percentage": "75%"
+    },
+    {
+      "name": "3B",
+      "percentage": "72%"
+    },
+    {
+      "name": "4B",
+      "percentage": "67%"
+    },
+    {
+      "name": "5B",
+      "percentage": "68%"
+    },
+    {
+      "name": "6B",
+      "percentage": "78%"
+    },
+    {
+      "name": "7B",
+      "percentage": "70%"
+    },
+    {
+      "name": "8B",
+      "percentage": "73%"
+    },
+    {
+      "name": "9B",
+      "percentage": "80%"
+    },
+    {
+      "name": "10B",
+      "percentage": "79%"
+    }
+  ]
+}
