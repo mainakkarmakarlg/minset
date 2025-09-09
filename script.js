@@ -11,8 +11,10 @@ async function loadImageAndLabel(imageUrl, labelArray) {
         .resizeNearestNeighbor([128, 128])
         .toFloat()
         .div(tf.scalar(255.0))
-        .expandDims(0); // shape [1, 128, 128, 3]
+        .expandDims(0); 
+        // [1, 128, 128, 3]
 
+        // used for unwanted label like nan to 0
       const percentValues = labelArray.map((entry) =>
         parseFloat(entry.percentage.replace("%", ""))
       );
